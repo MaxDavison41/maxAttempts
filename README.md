@@ -43,11 +43,17 @@ app
 
 2. Download electron with 'npm install --save-dev electron'
 
-3. move into app via 'cd app' and run 'npm start'
+3. move into app via 'cd app' and
 
-4. Enter a password and watch the cracker try to guess it!
+4. Download dictionaries from: [Compressed Dictionary](https://drive.google.com/file/d/1uX3ob-Bh0CTs0L3252EDRz2SwSI_RLt7/view?usp=drive_link)
 
-5. Click Retry to test a different password.
+5. Add dictionaries to app/data/ 
+
+6. run 'npm start'
+
+7. Enter a password and watch the cracker try to guess it!
+
+8. Click Retry to test a different password.
 
 ## 🎓 Educational Purpose
 This project is built to explore:
