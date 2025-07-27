@@ -23,14 +23,23 @@ A fun and educational tool to explore password strength and entropy through a si
 
 ## 📂 Project Structure
 analysis
+
 ├── plotting.py # Used for plotting data
+
 └── stats.js    # Looks through data, conducts analysis, outputs to files.
+
 app
+
 ├── index.html  # Main UI
+
 ├── style.css   # Basic styling
+
 ├── script.js   # Frontend logic & event handling
+
 ├── cracker.js  # Password cracking logic
+
 ├── data/       # Dictionarise
+
 └── README.md
 
 
