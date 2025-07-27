@@ -1,0 +1,138 @@
+========================== Analysis of Speical Character Positions in Words in Passwords ==========================
+
+====================================password1====================================
+Location: '1st Letter' with count: 2
+Location: '2nd Letter' with count: 4
+Location: '3rd Letter' with count: 2
+Location: '3rd-to-Last Letter' with count: 0
+Location: '2nd-to-Last Letter' with count: 2
+Location: 'Last Letter' with count: 5
+Location: 'Middle Letter' with count: 1
+Location: '4th Letter' with count: 1
+Location: '4th-to-Last Letter' with count: 1
+Location: '5th Letter' with count: 0
+Location: '6th Letter' with count: 0
+Location: '7th Letter' with count: 0
+Location: '8th Letter' with count: 0
+Location: '8th-to-Last Letter' with count: 0
+Location: '7th-to-Last Letter' with count: 0
+Location: '6th-to-Last Letter' with count: 0
+Location: '5th-to-Last Letter' with count: 0
+Location: '9th Letter' with count: 0
+Location: '10th Letter' with count: 0
+Location: '11st Letter' with count: 0
+Location: '12nd Letter' with count: 0
+Location: '13rd Letter' with count: 0
+Location: '14th Letter' with count: 0
+Location: '14th-to-Last Letter' with count: 0
+Location: '13rd-to-Last Letter' with count: 0
+Location: '12nd-to-Last Letter' with count: 0
+Location: '11st-to-Last Letter' with count: 0
+Location: '10th-to-Last Letter' with count: 0
+Location: '9th-to-Last Letter' with count: 0
+====================================password2====================================
+Location: '1st Letter' with count: 2
+Location: '2nd Letter' with count: 1
+Location: '3rd Letter' with count: 1
+Location: '3rd-to-Last Letter' with count: 0
+Location: '2nd-to-Last Letter' with count: 2
+Location: 'Last Letter' with count: 5
+Location: 'Middle Letter' with count: 1
+Location: '4th Letter' with count: 0
+Location: '4th-to-Last Letter' with count: 1
+Location: '5th Letter' with count: 0
+Location: '5th-to-Last Letter' with count: 1
+Location: '6th Letter' with count: 0
+Location: '7th Letter' with count: 0
+Location: '8th Letter' with count: 0
+Location: '8th-to-Last Letter' with count: 0
+Location: '7th-to-Last Letter' with count: 0
+Location: '6th-to-Last Letter' with count: 0
+Location: '9th Letter' with count: 0
+Location: '9th-to-Last Letter' with count: 0
+====================================password3====================================
+Location: '1st Letter' with count: 2
+Location: '2nd Letter' with count: 2
+Location: '3rd Letter' with count: 1
+Location: '4th Letter' with count: 1
+Location: '4th-to-Last Letter' with count: 2
+Location: '3rd-to-Last Letter' with count: 1
+Location: '2nd-to-Last Letter' with count: 4
+Location: 'Last Letter' with count: 6
+Location: 'Middle Letter' with count: 1
+Location: '5th Letter' with count: 0
+Location: '5th-to-Last Letter' with count: 0
+Location: '6th Letter' with count: 0
+Location: '7th Letter' with count: 0
+Location: '8th Letter' with count: 0
+Location: '8th-to-Last Letter' with count: 0
+Location: '7th-to-Last Letter' with count: 0
+Location: '6th-to-Last Letter' with count: 0
+Location: '9th Letter' with count: 0
+Location: '9th-to-Last Letter' with count: 0
+Location: '10th Letter' with count: 0
+Location: '10th-to-Last Letter' with count: 0
+====================================password4====================================
+Location: '1st Letter' with count: 7
+Location: '2nd Letter' with count: 5
+Location: '3rd Letter' with count: 3
+Location: '4th Letter' with count: 3
+Location: 'Middle Letter' with count: 3
+Location: '4th-to-Last Letter' with count: 7
+Location: '3rd-to-Last Letter' with count: 14
+Location: '2nd-to-Last Letter' with count: 23
+Location: 'Last Letter' with count: 77
+Location: '5th Letter' with count: 1
+Location: '5th-to-Last Letter' with count: 1
+Location: '6th Letter' with count: 1
+Location: '6th-to-Last Letter' with count: 0
+Location: '7th Letter' with count: 1
+Location: '8th Letter' with count: 2
+Location: '9th Letter' with count: 2
+Location: '9th-to-Last Letter' with count: 0
+Location: '8th-to-Last Letter' with count: 0
+Location: '7th-to-Last Letter' with count: 0
+Location: '10th Letter' with count: 0
+Location: '10th-to-Last Letter' with count: 0
+Location: '11st Letter' with count: 0
+Location: '12nd Letter' with count: 1
+Location: '13rd Letter' with count: 1
+Location: '14th Letter' with count: 0
+Location: '15th Letter' with count: 0
+Location: '15th-to-Last Letter' with count: 1
+Location: '14th-to-Last Letter' with count: 1
+Location: '13rd-to-Last Letter' with count: 0
+Location: '12nd-to-Last Letter' with count: 0
+Location: '11st-to-Last Letter' with count: 0
+====================================Total====================================
+Position in Word: '1st Letter' with count: 13
+Position in Word: '2nd Letter' with count: 12
+Position in Word: '3rd Letter' with count: 7
+Position in Word: '3rd-to-Last Letter' with count: 15
+Position in Word: '2nd-to-Last Letter' with count: 31
+Position in Word: 'Last Letter' with count: 93
+Position in Word: 'Middle Letter' with count: 6
+Position in Word: '4th Letter' with count: 5
+Position in Word: '4th-to-Last Letter' with count: 11
+Position in Word: '5th Letter' with count: 1
+Position in Word: '6th Letter' with count: 1
+Position in Word: '7th Letter' with count: 1
+Position in Word: '8th Letter' with count: 2
+Position in Word: '8th-to-Last Letter' with count: 0
+Position in Word: '7th-to-Last Letter' with count: 0
+Position in Word: '6th-to-Last Letter' with count: 0
+Position in Word: '5th-to-Last Letter' with count: 2
+Position in Word: '9th Letter' with count: 2
+Position in Word: '10th Letter' with count: 0
+Position in Word: '11st Letter' with count: 0
+Position in Word: '12nd Letter' with count: 1
+Position in Word: '13rd Letter' with count: 1
+Position in Word: '14th Letter' with count: 0
+Position in Word: '14th-to-Last Letter' with count: 1
+Position in Word: '13rd-to-Last Letter' with count: 0
+Position in Word: '12nd-to-Last Letter' with count: 0
+Position in Word: '11st-to-Last Letter' with count: 0
+Position in Word: '10th-to-Last Letter' with count: 0
+Position in Word: '9th-to-Last Letter' with count: 0
+Position in Word: '15th Letter' with count: 0
+Position in Word: '15th-to-Last Letter' with count: 1

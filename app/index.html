@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Password Guesser</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <h2>Enter your password</h2>
+      <input type="password" id="password-input" placeholder="Password" />
+      <button id="submit-button">Submit</button>
+    </div>
+  </div>
+
+  <div id="status-message" class="status-message" style="display: none;"></div>
+
+  <div style="text-align: center;">
+    <button id="retry-button" style="display: none;">🔁 Try another password</button>
+  </div>
+
+  <script src="script.js"></script>
+  <script src="cracker.js"></script>
+</body>
+</html>
