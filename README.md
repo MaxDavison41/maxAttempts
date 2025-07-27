@@ -1,4 +1,4 @@
-<img width="468" height="44" alt="image" src="https://github.com/user-attachments/assets/0e021541-c6be-40e6-aa13-78cf4b271daf" /># 🔐 Password Cracker GUI
+# 🔐 Password Cracker GUI
 
 A fun and educational tool to explore password strength and entropy through a simulated cracking interface. This project visualizes how dictionary attacks and brute-force guessing work in real-time, encouraging users to reflect on password complexity.
 
