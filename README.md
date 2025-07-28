@@ -47,9 +47,6 @@ app
 
 1. Clone the repo:
 
-   git clone https://github.com/yourusername/password-cracker-gui.git
-
-
 2. Download electron with 'npm install --save-dev electron'
 
 3. move into app via 'cd app' and
@@ -74,6 +71,8 @@ This project is built to explore:
 
 ## 📝 Final Thoughts
 Creating this tool helped me appreciate the real-world impact of entropy and the cost of predictable passwords. Even small tweaks to the cracking strategy greatly affect runtime, revealing how even “clever-looking” passwords can fall to systematic guessing.
+
+[Slide Link](https://docs.google.com/presentation/d/11bw2efdqXby5A_y3nvQp9eFZBsG9oCkWUacvbbVfD8Y/edit?slide=id.g373bee2ae96_0_107#slide=id.g373bee2ae96_0_107)
 
 ## 📄 License
 MIT License. See LICENSE file for details.
